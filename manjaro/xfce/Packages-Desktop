@@ -29,6 +29,8 @@ manjaro-pulse
 pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-zeroconf
+pavucontrol
+alsa
 
 ## Connect Packages
 android-tools
@@ -146,6 +148,15 @@ xfce4-xkb-plugin
 xfce4-pulseaudio-plugin
 pavucontrol
 
+# i3 Group
+i3-gaps
+i3-help
+i3-scripts
+i3-wallpapers
+i3-scrot
+i3lock
+i3status
+
 ## Themes
 >extra manjaro-wallpapers-18.0
 >extra wallpapers-2018
@@ -156,6 +167,7 @@ grub-theme-manjaro
 matcha-gtk-theme
 xcursor-simpleandsoft
 xcursor-vanilla-dmz-aa
+i3-default-artwork
 
 ## Applications
 >extra catfish
@@ -195,6 +207,10 @@ screenfetch
 >extra viewnior
 >extra xfburn
 >extra yelp
+libreoffice-fresh
+rofi
+dmenu
+nitrogen
 
 # Optional dependencies engrampa
 p7zip  # 7Z and ARJ archive support
